@@ -46,8 +46,8 @@ return $action->action();
 ```
 
 ## 自主学習３
-- [オリジナル](review1-base.php)
-- [修正](review1-remake.php)
+- [オリジナル](review3-base.php)
+- [修正](review3-remake.php)
 
 クラスに何をさせたいのか良く考えるようにする。
 
